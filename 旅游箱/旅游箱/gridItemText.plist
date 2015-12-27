@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>行程天气</string>
+	<string>实时翻译</string>
+	<string>行程助手</string>
+	<string>记账本</string>
+	<string>汇率计算</string>
+	<string>更多设置</string>
+</array>
+</plist>

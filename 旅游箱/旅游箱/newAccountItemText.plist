@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>餐饮</string>
+	<string>交通</string>
+	<string>购物</string>
+	<string>娱乐</string>
+	<string>美容</string>
+	<string>住宿</string>
+	<string>门票</string>
+	<string>医疗</string>
+	<string>保险</string>
+	<string>其他</string>
+</array>
+</plist>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>setting_page_upate_state_icon</string>
+				<key>text</key>
+				<string>更新说明</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>setting_page_about_us_icon</string>
+				<key>text</key>
+				<string>关于我们</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>给我们建议</string>
+				<key>icon</key>
+				<string>setting_page_sending_msg_icon</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>setting_page_share_icon</string>
+				<key>text</key>
+				<string>分享给小伙伴</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>客服热线</string>
+				<key>icon</key>
+				<string>setting_page_call_us_icon</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>关于旅行箱</string>
+	</dict>
+</array>
+</plist>
